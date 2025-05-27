@@ -2,8 +2,7 @@ Hello!
 
 ---
 
-```markdown
-# 🧠 ML Tinkering: A Beginner's Journey into Machine Learning
+# 🧠 ML Tinkering: 'Forrest Gumping' my way into Machine Learning
 
 Welcome to **ML Tinkering**, a personal collection of Jupyter notebooks documenting my early explorations into the world of **Machine Learning** using Python.
 
@@ -15,7 +14,7 @@ This repository is a hands-on, beginner-level sandbox where I experiment with fo
 
 Each folder in this repo corresponds to a different machine learning technique or topic:
 
-```
+
 
 ```markdown
 ML_Tinkering_Python/
