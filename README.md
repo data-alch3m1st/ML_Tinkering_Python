@@ -28,6 +28,8 @@ ML_Tinkering_Python/
 ├── RandomForests/                            # Random Forest models
 ├── Regression_General/                       # Simple and multiple linear regression
 ├── SupportVectorMachines/                    # SVM classifiers and regressors
+├── Unsupervised Learning/                    # Unsupervised Learning Algorithms
+   ├── Clustering Algos/                      # Clustering-based unsupervised learning algorithms
 ├── myKNN_Regression_with_Pipes_v2.ipynb      # Pipeline-based KNN regression
 
 ```
