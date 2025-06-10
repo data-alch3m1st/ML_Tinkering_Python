@@ -19,7 +19,7 @@ Each folder in this repo corresponds to a different machine learning technique o
 ```markdown
 ML_Tinkering_Python/
 │
-├── BoostedTrees/                             # Experiments with Gradient Boosting models
+├── BoostedTrees/                             # Experiments with Gradient Boosting models (AdaBoost, GradientBoost, XGBoost);
 ├── ElasticNet_Ridge_and_Lasso_Regressions/   # Regularization techniques
 ├── KNearestNeighbors/                        # Classification and regression with KNN
 ├── LogisticalRegression/                     # Logistic regression models
